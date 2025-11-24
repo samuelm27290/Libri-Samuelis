@@ -21,7 +21,7 @@ body {
     padding-right: 16px;
     font-size: 1.5rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-        background-image: url(26.jpg);
+        background-image: url(Pictures/26.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -42,10 +42,11 @@ header{
 .about-text {
     max-width: 2000px;
     margin: auto;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     text-align: justify;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-indent: 2.4rem;
+    padding: 24px;
 }
 
 .centered-description {text-align: center;}
@@ -60,7 +61,8 @@ footer {
     background-color: rgb(235, 214, 186);
     text-align: justify;
     padding: 20px 0;
-    margin-top: 40px;
+    margin: 0 auto;
+    max-width: 2000px;
 }
 
 .footer-copyright{
@@ -193,4 +195,3 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
-
