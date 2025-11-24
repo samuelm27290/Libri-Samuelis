@@ -43,7 +43,7 @@ header{
     max-width: 2000px;
     margin: auto;
     font-size: 1.5rem;
-    text-align: justify;
+    text-align: left;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     text-indent: 2.4rem;
     padding: 24px;
@@ -195,4 +195,5 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
+
 
