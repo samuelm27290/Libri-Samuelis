@@ -34,6 +34,15 @@ header{
     z-index: 1000;
 }
 
+.privacy-policy-text {
+    max-width: 2000px;
+    margin: auto;
+    font-size: 1.5rem;
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding: 24px;
+}
+
 .tech-icon {
     width: 75px;
     height: 75px;
@@ -195,5 +204,6 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
+
 
 
