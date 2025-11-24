@@ -21,7 +21,7 @@ body {
     padding-right: 16px;
     font-size: 1.5rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
-        background-image: url(Pictures/26.jpg);
+        background-image: url(26.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -195,3 +195,4 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
+
