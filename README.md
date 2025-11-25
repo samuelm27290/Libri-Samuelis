@@ -39,7 +39,11 @@ It also includes a privacy policy page and a contact form, both of which are loc
 
 # Improvements for the Future
 
-I want to add more language translations for people who only know a different language. A button that allows users to toggle between dark and light modes. A search bar for specific books on the web page. And more.
+<ul>
+  <li>Add more language translations for people who only know a different language.</li>
+  <li>A button that allows users to toggle between dark and light modes.</li>
+  <li>A search bar for specific books on the web page.</li>
+</ul>
 
 # Contact
 
