@@ -2,6 +2,8 @@
 
 ## Fully functional website created in HTML, CSS, and JavaScript to showcase and recommend all of the books that are in my current possession.
 
+<img src="HomePageWeb.png">
+
 This project was initiated to test the knowledge I gained from the book "HTML & CSS: Design and Build Websites" by Jon Duckett. Using basic instructions from his book, I created the HTML code with Visual Studio Code and developed the website as a result.
 
 ## What you will find in this repository
