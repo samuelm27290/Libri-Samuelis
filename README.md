@@ -7,12 +7,12 @@ This project was initiated to test the knowledge I gained from the book "HTML & 
 ## What you will find in this repository
 
 <ul>
-  <li>5 HTML Codes</li>
-  <li>1 CSS Code</li>
-  <li>1 JavaScript Code</li>
+  <li>5 HTML Files</li>
+  <li>1 CSS File</li>
+  <li>1 JavaScript File</li>
   <li>7 Sorting Folders Containing Images of Books Ranked By How Strongly I Would Recommend</li>
   <li>1 Folder Containing Other Web Icons</li>
-  <li>Licence Page</li>
+  <li>License Page</li>
   <li>Other Miscellaneous Images</li>
 </ul>
 
@@ -41,5 +41,5 @@ I want to add more language translations for people who only know a different la
 
 # Contact
 
-If you want to express your options on the website, report bugs, or make suggestions, feel free to contact me:
+If you want to express your opinions on the website, report bugs, or make suggestions, feel free to contact me:
 <a href="mailto:samuelmartin7000@gmail.com">samuelmartin7000@gmail.com</a>
