@@ -6,7 +6,7 @@ This project was initiated to test the knowledge I gained from the book "HTML & 
 
 ## What you will find in this repository
 
-<ol>
+<ul>
   <li>5 HTML Codes</li>
   <li>1 CSS Code</li>
   <li>1 JavaScript Code</li>
@@ -14,7 +14,7 @@ This project was initiated to test the knowledge I gained from the book "HTML & 
   <li>1 Folder Containing Other Web Icons</li>
   <li>Licence Page</li>
   <li>Other Miscellaneous Images</li>
-</ol>
+</ul>
 
 The main homepage of this website is titled "index.html". That is the actual HTML code for the main page.
 
