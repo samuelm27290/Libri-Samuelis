@@ -34,6 +34,14 @@ header{
     z-index: 1000;
 }
 
+nav{
+    background-color: rgb(235, 214, 186);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
 .privacy-policy-text {
     max-width: 2000px;
     margin: auto;
@@ -132,7 +140,7 @@ footer {
 
 .off-screen-menu{
     --menu-width: 450px;
-    background-color:rgb(226, 221, 178);
+    background-color:rgb(235, 214, 186);
     height: 100vh;
     width: var(--menu-width);
     position: fixed;
@@ -189,7 +197,7 @@ footer {
     border-radius: 25px;
     position:absolute;
     top: 50%;
-    left: 50%;
+    left: 30%;
     transform: translate(-50%,-50%);
     transition: .3s ease;
 }
@@ -235,6 +243,7 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
+
 
 
 
