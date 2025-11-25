@@ -22,7 +22,7 @@ The main homepage of this website is titled "index.html". That is the actual HTM
 
 ## About the Website Itself
 
-It contains 70 books ranked by how strongly I would personally recommend them to another person. Out of the 70 books listed, 65 of them contain affiliate links to Amazon for further purchase. In case a person was curious and wanted to get their hands on a book, those links are there to serve them. Plus, I would get a commission based on that purchase.
+It contains 70 books, tiered (S to F) based on how strongly I would personally recommend them to another person. Out of the 70 books listed, 65 of them contain affiliate links to Amazon for further purchase. In case a person was curious and wanted to get their hands on a book, those links are there to serve them. Plus, I would get a commission based on that purchase.
 
 Knowing that there would be a lot of books, I created a side navigation bar so that a person can quickly jump from one section to the next without having to scroll all the way themselves. Additionally, I created a "Scroll to Top" arrow button, allowing users to return to the top of the page with a single click. However, this button will only appear once a person has scrolled a significant amount. All of these UX features were created through <strong>JavaScript</strong>.
 
