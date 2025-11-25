@@ -43,6 +43,37 @@ header{
     padding: 24px;
 }
 
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;        /* Makes it full width of the form container */
+    max-width: 500px;   /* Optional: limit maximum width */
+    padding: 12px 15px; /* Bigger clickable area */
+    font-size: 1.1rem;  /* Larger text */
+    border-radius: 10px; /* Rounded corners */
+    border: 1px solid #ccc; /* Optional: nicer border */
+    box-sizing: border-box; /* Ensure padding doesn't overflow */
+}
+
+.contact-form .submit-btn {
+    padding: 12px 25px;
+    font-size: 1.1rem;
+}
+
+
+.contact-form textarea {
+    min-height: 150px; /* Make the textarea taller */
+    resize: vertical;  /* Users can adjust height if they want */
+}
+
+
+.g-recaptcha {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+
 .tech-icon {
     width: 75px;
     height: 75px;
@@ -204,6 +235,7 @@ footer {
 }
 
 #shareBtn:hover {background-color: #ff7b7b;}
+
 
 
 
