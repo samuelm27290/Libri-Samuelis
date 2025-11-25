@@ -15,7 +15,6 @@ This project was initiated to test the knowledge I gained from the book "HTML & 
   <li>7 Sorting Folders Containing Images of Books Ranked By How Strongly I Would Recommend</li>
   <li>1 Folder Containing Other Web Icons</li>
   <li>License Page</li>
-  <li>Other Miscellaneous Images</li>
 </ul>
 
 The main homepage of this website is titled "index.html". That is the actual HTML code for the main page.
